@@ -5,14 +5,14 @@ skin: "blue"
 basic_info:
 
     # Your full name
-    first_name: Wonder
-    last_name: Woman
+    first_name: Steven
+    last_name: Ade
     
     # Define yourself in 4-5 words
-    motto: I like saving the world
+    motto: I am blockchain crazy!
     
     # focus
-    focus: Killing Bad Boys
+    focus: Blockchain Integration
     
     # You have 1 paragraph to make a great impression, summarize your career.
     summary: |
@@ -38,7 +38,7 @@ basic_info:
     # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
     github: Th3c0d3d1
     
-    twitter: 'webjeda' #optional
+    twitter: 'Icrypto21' #optional
     stack-overflow: # Number/Username, e.g. 123456/alandoe
 
     # languages you speak, levels inculde: Native, Professional
@@ -54,11 +54,11 @@ basic_info:
 
     # Interests or hobies
     interests:
-      - item: Climbing
+      - item: Defi
 
-      - item: Snowboarding
+      - item: NFTs
 
-      - item: Cooking
+      - item: MMA
 
 # Your previous education
 education:
